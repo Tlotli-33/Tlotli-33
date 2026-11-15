@@ -12,9 +12,14 @@
 
 ## 📈 Contribution Activity
 
-## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tlotli-33&theme=tokyo-night&hide_border=true)
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Tlotli-33&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tlotli-33&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tlotli-33&theme=tokyonight&hide_border=false&layout=compact)
 
 
 
