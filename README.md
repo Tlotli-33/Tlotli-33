@@ -1,6 +1,12 @@
+
 ## Hi there 👋
-# 💫 About Me:
-# PROFILE<br><br>Highly motivated Systems Development graduate with a Diploma in Systems Development from Boston City Campus and a strong passion for cybersecurity, particularly Security Operations (Blue Team), Threat Detection, Incident Response, and Malware Analysis. Through hands-on training at the Zaio Cybersecurity Bootcamp, TCM Security SOC 101, LetsDefend, and academic projects, I have developed practical experience in networking, Linux, Python, SQL, web application security, malware analysis, and security monitoring. I enjoy analysing security incidents, solving technical challenges, and continuously expanding my knowledge of emerging cyber threats. I am seeking an entry-level SOC Analyst opportunity where I can apply my technical skills, contribute to protecting organisational assets, and continue developing as a cybersecurity professional.<br>
+
+## 💫 About Me
+
+<p align="justify">
+  I am a Systems Development graduate from Boston City Campus with a strong interest in Cybersecurity, particularly Security Operations (Blue Team), Threat Detection, Incident Response, and Malware Analysis. I completed a 7-month Cybersecurity Bootcamp at Zaio Institute of Learning, alongside TCM Security SOC 101 training and hands-on exercises through LetsDefend and cybersecurity labs. My technical foundation includes networking, Linux, Python, SQL, security monitoring, malware analysis, and web application security. I enjoy investigating security events, analysing potential threats, solving technical challenges, and continuously developing my cybersecurity skills. I am currently seeking an entry-level SOC Analyst opportunity where I can apply my knowledge, gain practical industry experience, and contribute to protecting organisational systems and information assets.
+</p>
+
 
 
 ## 🌐 Socials:
